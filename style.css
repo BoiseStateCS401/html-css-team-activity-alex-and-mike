@@ -49,9 +49,9 @@ pre {
 }
 
 code {
-  margin: 500px 0;
+  margin: 500px;
 }
 
 table, th, td {
-  border: 15px dotted limegreen;
+  border: 1px dotted limegreen;
 }
