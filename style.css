@@ -21,5 +21,5 @@ p, li {
 }
 
 ul {
-  list-style-type: square outside none;
+  list-style: square outside none;
 }
