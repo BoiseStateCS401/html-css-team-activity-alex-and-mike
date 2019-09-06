@@ -8,6 +8,8 @@ h1 {
   color: red;
   font-size: 64px;
   font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: center;
+  
 }
 
 em, strong {
