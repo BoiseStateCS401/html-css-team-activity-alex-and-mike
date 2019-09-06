@@ -7,7 +7,7 @@ h1 {
   font-weight: bold;
   color: red;
   font-size: 64px;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: Comic Sans;
 }
 
 em, strong {
@@ -16,4 +16,8 @@ em, strong {
 
 p, li {
   color: yellow;
+}
+
+ul {
+  list-style-type: square outside none;
 }
