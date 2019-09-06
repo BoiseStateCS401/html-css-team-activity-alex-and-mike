@@ -43,6 +43,7 @@ img:hover {
   opacity: 0.2;
 }
 
-code {
+pre {
   background-color: hotpink;
+  border: 5px solid red;
 }
