@@ -22,5 +22,5 @@ p, li {
 
 ul {
   list-style: square outside none;
-  padding: 500;
+  margin: 500px 0;
 }
