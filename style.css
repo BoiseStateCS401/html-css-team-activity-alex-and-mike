@@ -12,3 +12,7 @@ h1 {
 em, strong {
   color: green; 
 }
+
+p, li {
+  color: yellow;
+}
