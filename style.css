@@ -47,3 +47,11 @@ pre {
   background-color: hotpink;
   border: 5px solid red;
 }
+
+code {
+  margin: 50px 0;
+}
+
+table {
+  border: 1px dotted limegreen;
+}
