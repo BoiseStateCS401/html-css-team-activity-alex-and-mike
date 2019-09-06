@@ -42,3 +42,7 @@ img {
 img:hover {
   opacity: 0.2;
 }
+
+code {
+  background-color: hotpink;
+}
